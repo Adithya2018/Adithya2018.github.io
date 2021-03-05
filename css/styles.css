@@ -51,14 +51,12 @@ h3{
 }
 
 footer{
+    padding: 5px;
+    margin-top: 20px;
+    color: #fff;
     background-color: black;
-    color: white;
-    position:absolute;
+    text-align:center;
+    position: fixed;
     bottom: 0;
-    width: 100%;  
-}
-
-footer p{
-    text-align: center;
-    padding: 1em;
+    width: 100%;
 }
