@@ -27,7 +27,7 @@ header p{
     text-align: center;
     font-size: 2em;
     margin-bottom: 2em;
-    padding-bottom: 1em;
+    padding-bottom: 0.5em;
 }
 
 section ul,a{
@@ -52,12 +52,9 @@ h3{
 }
 
 footer{
-    padding: 5px;
-    margin-top: 20px;
+    margin-top: 3rem;
+    padding: 1em;
     color: #fff;
     background-color: black;
     text-align:center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
